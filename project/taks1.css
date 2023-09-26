@@ -1,0 +1,26 @@
+section{
+    margin-left: 20px;
+}
+h2{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4{
+    color: blueviolet;
+}
+#para{
+    color: red;
+    
+}
+p{
+   font-style: bold;
+}
+li{
+    font-style: oblique;
+}
+h3{
+    color:blueviolet ;
+}
+body{
+    border-style: groove;
+}
